@@ -1,6 +1,9 @@
+
 # Obelisk
 
 A small prototype built to test some mechanics — namely portals — and their limitations, ahead of a future game I'm working on. Not much in the way of gameplay, though I tried to make it atmospheric.
+
+<img width="347" height="195" alt="Untitled" src="https://github.com/user-attachments/assets/12f8a7ad-4a09-44d2-8b1f-c54b2fd73f5a" />
 
 Where to get: https://mariusmoga.itch.io/obelisk
 
