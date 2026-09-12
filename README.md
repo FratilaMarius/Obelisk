@@ -1,1 +1,26 @@
 # Obelisk
+
+A small prototype built to test some mechanics — namely portals — and their limitations, ahead of a future game I'm working on. Not much in the way of gameplay, though I tried to make it atmospheric.
+
+## Controls
+
+| Action | Key |
+|---|---|
+| Move | `WASD` |
+| Jump | `Space` |
+| Interact (when prompted) | `F` |
+| Settings menu | `Esc` |
+
+## Playtime
+
+About 10–15 minutes.
+
+## How to play
+
+Go through the portals at the bottom of each pillar, from shortest to tallest.
+
+## About
+
+This project exists mainly to prototype real-time portal rendering and see how it holds up before using it in a larger game. It's a tech test first, atmospheric walk second — expect minimal gameplay and a short runtime.
+
+Built with Unity.
