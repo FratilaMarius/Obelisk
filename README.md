@@ -2,6 +2,8 @@
 
 A small prototype built to test some mechanics — namely portals — and their limitations, ahead of a future game I'm working on. Not much in the way of gameplay, though I tried to make it atmospheric.
 
+Where to get: https://mariusmoga.itch.io/obelisk
+
 ## Controls
 
 | Action | Key |
